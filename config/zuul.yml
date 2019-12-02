@@ -4,7 +4,7 @@ spring:
     name: zuul
     
 server:
-  port: 3001
+  port: 30011111111
   
 eureka:
   client:
