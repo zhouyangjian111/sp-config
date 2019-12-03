@@ -4,13 +4,13 @@ spring:
     name: zuul
     
 server:
-  port: 300111111
+  port: 3001
   
 eureka:
   client:
     service-url:
       defaultZone: http://eureka1:2001/eureka, http://eureka2:2002/eureka
-fxhfdhfdsghfxghfghcghfghfgshfgshfgh
+
             
 management:
   endpoints:
